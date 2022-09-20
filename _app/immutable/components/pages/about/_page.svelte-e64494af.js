@@ -2,12 +2,12 @@ import{S as Ce,i as Fe,s as Ke,a as D,k as s,q as p,N as We,h as a,c as A,l,m as
           online.
           `),C=s("br"),F=p(`
           I am a `),S=s("span"),B=p("Computer Science"),y=p(` student at
-          Kurukshetra University from `),d=s("span"),W=p("India"),O=p(` .
-          I have been enjoying programming for about
+          Kurukshetra University from `),d=s("span"),W=p("India"),O=p(`. I
+          have been enjoying programming for about
           `),P=s("span"),Z=p("4"),ee=p(`
           years, mostly as a
           `),U=s("span"),te=p("Web developer"),ae=p(`
-          and messing around with `),q=s("span"),se=p("GNU/Linux"),le=p(" ."),ne=D(),$=s("div"),N=s("div"),R=s("p"),re=p("What I do"),oe=D(),G=s("p"),ie=p(`I am a Full-stack Web Developer by profession and I work on CLI tools
+          and messing around with `),q=s("span"),se=p("GNU/Linux"),le=p("."),ne=D(),$=s("div"),N=s("div"),R=s("p"),re=p("What I do"),oe=D(),G=s("p"),ie=p(`I am a Full-stack Web Developer by profession and I work on CLI tools
           in my free time. I also do some graphics designing work every now and
           then. Ever since I started using a computer, I've always been
           fascinated with technology and wanted to learn about it as much as I
@@ -17,12 +17,12 @@ import{S as Ce,i as Fe,s as Ke,a as D,k as s,q as p,N as We,h as a,c as A,l,m as
           online.
           `),C=l(v,"BR",{}),F=u(v,`
           I am a `),S=l(v,"SPAN",{class:!0});var be=o(S);B=u(be,"Computer Science"),be.forEach(a),y=u(v,` student at
-          Kurukshetra University from `),d=l(v,"SPAN",{class:!0});var ye=o(d);W=u(ye,"India"),ye.forEach(a),O=u(v,` .
-          I have been enjoying programming for about
+          Kurukshetra University from `),d=l(v,"SPAN",{class:!0});var ye=o(d);W=u(ye,"India"),ye.forEach(a),O=u(v,`. I
+          have been enjoying programming for about
           `),P=l(v,"SPAN",{class:!0});var Ie=o(P);Z=u(Ie,"4"),Ie.forEach(a),ee=u(v,`
           years, mostly as a
           `),U=l(v,"SPAN",{class:!0});var ke=o(U);te=u(ke,"Web developer"),ke.forEach(a),ae=u(v,`
-          and messing around with `),q=l(v,"SPAN",{class:!0});var Ee=o(q);se=u(Ee,"GNU/Linux"),Ee.forEach(a),le=u(v," ."),v.forEach(a),J.forEach(a),ge.forEach(a),ne=A(z),$=l(z,"DIV",{class:!0});var we=o($);N=l(we,"DIV",{class:!0});var Q=o(N);R=l(Q,"P",{class:!0});var Se=o(R);re=u(Se,"What I do"),Se.forEach(a),oe=A(Q),G=l(Q,"P",{class:!0});var Pe=o(G);ie=u(Pe,`I am a Full-stack Web Developer by profession and I work on CLI tools
+          and messing around with `),q=l(v,"SPAN",{class:!0});var Ee=o(q);se=u(Ee,"GNU/Linux"),Ee.forEach(a),le=u(v,"."),v.forEach(a),J.forEach(a),ge.forEach(a),ne=A(z),$=l(z,"DIV",{class:!0});var we=o($);N=l(we,"DIV",{class:!0});var Q=o(N);R=l(Q,"P",{class:!0});var Se=o(R);re=u(Se,"What I do"),Se.forEach(a),oe=A(Q),G=l(Q,"P",{class:!0});var Pe=o(G);ie=u(Pe,`I am a Full-stack Web Developer by profession and I work on CLI tools
           in my free time. I also do some graphics designing work every now and
           then. Ever since I started using a computer, I've always been
           fascinated with technology and wanted to learn about it as much as I
